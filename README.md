@@ -1,4 +1,4 @@
-# Ensemble Method for Outlier Detection in Big Data
+# Clustering Outlier Detection Method in Big Data
 
 ## Overview
 
